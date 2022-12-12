@@ -10,4 +10,4 @@ z = int(input("Введите z: "))
 if not (x or y or z) == (not x and not y and not z):
     print(bool(1))
 else:
-    print(bool(0))1
+    print(bool(0))
